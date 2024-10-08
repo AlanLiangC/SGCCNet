@@ -144,3 +144,4 @@ Click **Button: Inference**
   <source src="pics/Saliency.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+![logo](./pics/Saliency.gif)
