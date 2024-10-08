@@ -1,0 +1,10 @@
+# ninja log v5
+1	12272	1728396335361465448	/home/alan/AlanLiang/Projects/3D_Perception/AlanLiang/Projects/SGCCNet/models/pointnet2_ops_lib/build/temp.linux-x86_64-3.9/pointnet2_ops/_ext-src/src/sampling.o	d1a796aa9f5e0101
+1	12280	1728396335370465765	/home/alan/AlanLiang/Projects/3D_Perception/AlanLiang/Projects/SGCCNet/models/pointnet2_ops_lib/build/temp.linux-x86_64-3.9/pointnet2_ops/_ext-src/src/interpolate.o	bff4656931d935e7
+0	12313	1728396335404466961	/home/alan/AlanLiang/Projects/3D_Perception/AlanLiang/Projects/SGCCNet/models/pointnet2_ops_lib/build/temp.linux-x86_64-3.9/pointnet2_ops/_ext-src/src/bindings.o	e46c63706ce11580
+0	13212	1728396336302498469	/home/alan/AlanLiang/Projects/3D_Perception/AlanLiang/Projects/SGCCNet/models/pointnet2_ops_lib/build/temp.linux-x86_64-3.9/pointnet2_ops/_ext-src/src/group_points.o	27cc2863968d3c25
+0	13229	1728396336318499027	/home/alan/AlanLiang/Projects/3D_Perception/AlanLiang/Projects/SGCCNet/models/pointnet2_ops_lib/build/temp.linux-x86_64-3.9/pointnet2_ops/_ext-src/src/ball_query.o	9cc4ddee15fb331e
+1	33312	1728396356395149175	/home/alan/AlanLiang/Projects/3D_Perception/AlanLiang/Projects/SGCCNet/models/pointnet2_ops_lib/build/temp.linux-x86_64-3.9/pointnet2_ops/_ext-src/src/group_points_gpu.o	b2b4a04ad2095deb
+0	33542	1728396356623155997	/home/alan/AlanLiang/Projects/3D_Perception/AlanLiang/Projects/SGCCNet/models/pointnet2_ops_lib/build/temp.linux-x86_64-3.9/pointnet2_ops/_ext-src/src/ball_query_gpu.o	e1041f6e4faa06ab
+1	33662	1728396356742159558	/home/alan/AlanLiang/Projects/3D_Perception/AlanLiang/Projects/SGCCNet/models/pointnet2_ops_lib/build/temp.linux-x86_64-3.9/pointnet2_ops/_ext-src/src/interpolate_gpu.o	1dd96672f2cdfe11
+1	35468	1728396358552213229	/home/alan/AlanLiang/Projects/3D_Perception/AlanLiang/Projects/SGCCNet/models/pointnet2_ops_lib/build/temp.linux-x86_64-3.9/pointnet2_ops/_ext-src/src/sampling_gpu.o	2ca4b16ac504b518
